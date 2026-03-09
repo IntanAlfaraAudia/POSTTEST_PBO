@@ -94,7 +94,7 @@ Tampilan menu utama ketika program dijalankan.
 
 Tampilan saat menambahkan data perhiasan.
 
-![Tambah Data](gambar/tambah-perhiasan.png)
+![Tambah Data](gambar/TambahPemesanan.png)
 
 ---
 
@@ -102,7 +102,7 @@ Tampilan saat menambahkan data perhiasan.
 
 Menampilkan seluruh data perhiasan yang tersimpan.
 
-![Data Perhiasan](gambar/data-perhiasan.png)
+![Data Perhiasan](gambar/LihatPerhiasan.png)
 
 ---
 
@@ -110,7 +110,7 @@ Menampilkan seluruh data perhiasan yang tersimpan.
 
 Tampilan saat mengubah data perhiasan.
 
-![Update Data](gambar/update-perhiasan.png)
+![Update Data](gambar/UpdatePerhiasan.png)
 
 ---
 
@@ -118,7 +118,7 @@ Tampilan saat mengubah data perhiasan.
 
 Tampilan saat menghapus data perhiasan.
 
-![Hapus Data](gambar/hapus-perhiasan.png)
+![Hapus Data](gambar/HapusPerhiasan.png)
 
 ---
 
@@ -126,7 +126,7 @@ Tampilan saat menghapus data perhiasan.
 
 Tampilan saat melakukan transaksi penjualan.
 
-![Transaksi](gambar/transaksi.png)
+![Transaksi](gambar/transaksiPenjualan.png)
 
 ---
 
@@ -134,6 +134,6 @@ Tampilan saat melakukan transaksi penjualan.
 
 Menampilkan seluruh data transaksi yang telah dilakukan.
 
-![Data Transaksi](gambar/data-transaksi.png)
+![Data Transaksi](gambar/DataTransaksi.png)
 
 ---
