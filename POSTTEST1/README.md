@@ -86,7 +86,7 @@ src
 
 Tampilan menu utama ketika program dijalankan.
 
-![Menu Program](gambar/menu.png)
+![Menu Program](gambar/Menuprogram.png)
 
 ---
 
