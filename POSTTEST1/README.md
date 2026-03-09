@@ -126,7 +126,7 @@ Tampilan saat menghapus data perhiasan.
 
 Tampilan saat melakukan transaksi penjualan.
 
-![Transaksi](gambar/transaksiPenjualan.png)
+![Transaksi](gambar/TransaksiPenjualan.png)
 
 ---
 
