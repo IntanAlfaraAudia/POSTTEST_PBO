@@ -21,8 +21,6 @@ Beberapa konsep Pemrograman Berorientasi Objek yang digunakan dalam program ini 
 
 ---
 
-## Struktur Program
-
 
 Penjelasan file:
 
@@ -50,11 +48,79 @@ Program ini memiliki beberapa fitur utama yaitu:
 
 ---
 
-## Cara Kerja Program
+## Struktur Project
 
-Contoh menu program:
+```
+src
+│
+└── PenjualanPerhiasan
+    │
+    ├── Main.java
+    ├── Perhiasan.java
+    └── Transaksi.java
+```
 
 ---
+
+
+## Tampilan Program
+
+### Menu Utama
+
+Tampilan menu utama ketika program dijalankan.
+
+![Menu Program](gambar/MenuUtama.png)
+
+---
+
+### Tambah Data Perhiasan
+
+Tampilan saat menambahkan data perhiasan.
+
+![Tambah Data](gambar/TambahPemesanan.png)
+
+---
+
+### Data Perhiasan
+
+Menampilkan seluruh data perhiasan yang tersimpan.
+
+![Data Perhiasan](gambar/LihatPerhiasan.png)
+
+---
+
+### Update Data Perhiasan
+
+Tampilan saat mengubah data perhiasan.
+
+![Update Data](gambar/UpdatePerhiasan.png)
+
+---
+
+### Hapus Data Perhiasan
+
+Tampilan saat menghapus data perhiasan.
+
+![Hapus Data](gambar/HapusPerhiasan.png)
+
+---
+
+### Transaksi Penjualan
+
+Tampilan saat melakukan transaksi penjualan.
+
+![Transaksi](gambar/TransaksiPenjualan.png)
+
+---
+
+### Data Transaksi
+
+Menampilkan seluruh data transaksi yang telah dilakukan.
+
+![Data Transaksi](gambar/DataTransaksi.png)
+
+---
+
 
 ## 
 
