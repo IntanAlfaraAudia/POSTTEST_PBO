@@ -1,4 +1,4 @@
-# 💎 Sistem Penjualan Perhiasan (Java OOP - Inheritance)
+# 💎 Sistem Penjualan Perhiasan (Inheritance)
 
 ## 📌 Deskripsi Project
 Project ini merupakan implementasi dari konsep **Pemrograman Berorientasi Objek (OOP)** menggunakan bahasa Java.  
@@ -55,9 +55,92 @@ Project ini menggunakan **Hierarchical Inheritance**, yaitu:
 
 ---
 
+## Struktur Project
+
+```
+src
+│
+└── PenjualanPerhiasan
+│
+├── Main.java
+├── Perhiasan.java (Superclass)
+├── Transaksi.java
+├── Emas.java (Subclass)
+├── Perak.java (Subclass)
+└── Berlian.java (Subclass)
+```
+
+---
+
+
+## Tampilan Program
+
+### Menu Utama
+
+Tampilan menu utama ketika program dijalankan.
+
+![Menu Program](gambar/MenuUtama.png)
+
+---
+
+### Tambah Data Perhiasan
+
+Tampilan saat menambahkan data perhiasan.
+
+![Tambah Data](gambar/TambahPemesanan.png)
+
+---
+
+### Data Perhiasan
+
+Menampilkan seluruh data perhiasan yang tersimpan.
+
+![Data Perhiasan](gambar/LihatPerhiasan.png)
+
+---
+
+### Update Data Perhiasan
+
+Tampilan saat mengubah data perhiasan.
+
+![Update Data](gambar/UpdatePerhiasan.png)
+
+---
+
+### Hapus Data Perhiasan
+
+Tampilan saat menghapus data perhiasan.
+
+![Hapus Data](gambar/HapusPerhiasan.png)
+
+---
+
+### Transaksi Penjualan
+
+Tampilan saat melakukan transaksi penjualan.
+
+![Transaksi](gambar/TransaksiPenjualan.png)
+
+---
+
+### Data Transaksi
+
+Menampilkan seluruh data transaksi yang telah dilakukan.
+
+![Data Transaksi](gambar/DataTransaksi.png)
+
+---
+
+---
 ## 🔄 Konsep Inheritance
 
 Inheritance diterapkan dengan keyword:
 
-```java
+java
 extends
+
+##
+Nama : Intan  
+NIM : 2409106008  
+Praktikum : Pemrograman Berorientasi Objek
+
