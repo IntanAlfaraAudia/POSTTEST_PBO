@@ -1,4 +1,4 @@
-# ── ⋆⋅☆⋅⋆ ── Sistem Penjualan Perhiasan ── ⋆⋅☆⋅⋆ ──
+# ── ⋆⋅☆⋅⋆ Sistem Penjualan Perhiasan ⋆⋅☆⋅⋆ ──
 
 ### Posttest 4 - Praktikum Pemrograman Berorientasi Objek (PBO)
 
@@ -209,11 +209,11 @@ Program memiliki **7 fitur utama**, yaitu:
 
 ### 💎 Tambah Data Perhiasan
 
-![Tambah Data Perhiasan](DataPerhiasan.png)
+![Tambah Data Perhiasan](gambar/DataPerhiasan.png)
 
 ### 💎 Lihat Data Perhiasan
 
-![Lihat Data Perhiasan](LihatDataPerhiasan.png)
+![Lihat Data Perhiasan](gambar/LihatDataPerhiasan.png)
 
 Penjelasan:
 Menampilkan data perhiasan dengan informasi tambahan berbeda pada setiap jenis.
@@ -224,7 +224,7 @@ Menampilkan data perhiasan dengan informasi tambahan berbeda pada setiap jenis.
 
 ### 💰 Transaksi Penjualan
 
-![Transaksi](DataTransaksiPerhiasan.png)
+![Transaksi](gambar/DataTransaksiPerhiasan.png)
 
 Penjelasan:
 Pengguna melakukan pembelian berdasarkan ID perhiasan.
@@ -236,7 +236,7 @@ Total dihitung menggunakan method `hitungTotal()`.
 
 ### 📊 Lihat Data Transaksi
 
-![Data Transaksi](LihatDataTransaksi.png)
+![Data Transaksi](gambar/LihatDataTransaksi.png)
 
 Penjelasan:
 Menampilkan seluruh transaksi yang telah dilakukan.
