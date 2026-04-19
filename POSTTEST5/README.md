@@ -136,13 +136,13 @@ class Transaksi implements Diskon
 
 ## Penjelasan Class
 
-### 1️⃣ Main.java
+### 1️ Main.java
 
 Class utama untuk menjalankan program dan menampilkan menu.
 
 ---
 
-### 2️⃣ Perhiasan.java (Abstract Class)
+### 2️ Perhiasan.java (Abstract Class)
 
 Menyimpan data umum:
 
@@ -158,7 +158,7 @@ Memiliki:
 
 ---
 
-### 3️⃣ Emas.java (Subclass)
+### 3️ Emas.java (Subclass)
 
 Menambahkan:
 
@@ -171,7 +171,7 @@ Menerapkan:
 
 ---
 
-### 4️⃣ Perak.java (Subclass)
+### 4️ Perak.java (Subclass)
 
 Menambahkan:
 
@@ -184,7 +184,7 @@ Menerapkan:
 
 ---
 
-### 5️⃣ Berlian.java (Subclass)
+### 5️ Berlian.java (Subclass)
 
 Menambahkan:
 
@@ -197,7 +197,7 @@ Menerapkan:
 
 ---
 
-### 6️⃣ Transaksi.java
+### 6️ Transaksi.java
 
 Menyimpan:
 
@@ -214,7 +214,7 @@ Menerapkan:
 
 ---
 
-### 7️⃣ Diskon.java (Interface)
+### 7️ Diskon.java (Interface)
 
 Berisi:
 
@@ -237,7 +237,7 @@ Satu superclass (`Perhiasan`) memiliki banyak subclass:
 
 ---
 
-## ദ്ദി◝ ⩊ ◜.ᐟ Fitur Program
+## Fitur Program
 
 Program memiliki **7 fitur utama**:
 
@@ -253,14 +253,6 @@ Program memiliki **7 fitur utama**:
 
 ##  Tampilan Program
 
-### 🟢 Menu Program
-
-![Menu Program](gambar/MenuProgram.png)
-
-Penjelasan:
-Menu utama untuk memilih fitur program.
-
----
 
 ### 💎 Lihat Data Perhiasan
 
@@ -275,7 +267,7 @@ Menampilkan data perhiasan.
 
 ### 💰 Transaksi Penjualan
 
-![Transaksi](gambar/TransaksiPenjualan.png)
+![Transaksi](gambar/DataTransaksiPerhiasan.png)
 
 Penjelasan:
 Melakukan pembelian perhiasan.
